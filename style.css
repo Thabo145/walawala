@@ -1,0 +1,27 @@
+body {
+    font-size: 15pt;
+}
+
+h1 {
+  color: black
+}
+body{
+text-align: center
+}
+.profile-img{
+ width: 50%;
+ border-radius: 50%
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.btn {
+  display: block;
+  color: black;
+  padding: 15px;
+  background: grey;
+  margin: 16px;
+  box-shadow: 5px 10px;
+}
